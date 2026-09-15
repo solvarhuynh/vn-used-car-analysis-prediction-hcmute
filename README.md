@@ -390,4 +390,4 @@ Dashboard `app.R` (**HCMUTE AutoInsight**) gồm 8 tab:
 
 ## License
 
-Dự án được phát triển cho mục đích học thuật trong khuôn khổ đồ án môn học tại **Trường Đại học Công nghệ Kỹ thuật TP. Hồ Chí Minh (HCMUTE)**, Khoa Công nghệ Thông tin, Học kỳ 2 năm học 2025–2026. Vui lòng tôn trọng điều khoản sử dụng của các trang web được scrape khi dùng hoặc mở rộng các script cào dữ liệu.
+Dự án được phát triển cho mục đích học thuật trong khuôn khổ đồ án môn học Lập trình R cho Phân tích tại **Trường Đại học Công nghệ Kỹ thuật TP. Hồ Chí Minh (HCMUTE)**, Khoa Công nghệ Thông tin, Học kỳ 2 năm học 2025–2026. Vui lòng tôn trọng điều khoản sử dụng của các trang web được craw khi dùng hoặc mở rộng các script cào dữ liệu.
