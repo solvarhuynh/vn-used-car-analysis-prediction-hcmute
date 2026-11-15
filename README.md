@@ -14,7 +14,7 @@ An end-to-end data pipeline for scraping, cleaning, analyzing, and predicting us
 | 2 | Vũ Hoàng Long | 24133035 | Xây dựng giao diện Web UI (Shiny), Huấn luyện mô hình Hồi quy tuyến tính, Soạn thảo nội dung báo cáo |
 | 3 | Hoàng Ngọc Huy | 24133023 | Cào dữ liệu (Web Scraping), Huấn luyện mô hình phân cụm K-Means, Soạn thảo báo cáo |
 | 4 | Hồ Trọng Sơn | 24133049 | Phân tích xác suất thống kê, Huấn luyện mô hình Cây quyết định, Soạn thảo báo cáo |
-| 5 | Huỳnh Trung Nghĩa | 24133903 | Cào dữ liệu (Web Scraping), Làm sạch & chuẩn hóa dữ liệu (ETL), Xây dựng giao diện Web UI |
+| 5 | Huỳnh Trung Nghĩa | 24133903 | Web Scraping, Làm sạch & chuẩn hóa dữ liệu (ETL), Xây dựng giao diện Web UI |
 
 **Giảng viên hướng dẫn:** ThS. Phan Thị Thể
 
